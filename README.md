@@ -14,10 +14,13 @@
 
 <div> 
   
-Combinar 2 tablas o dataframes puede ser necesario pero tedioso , te dejo el código para que lo hagas en un abrir y cerrar de ojos. 
+Combinar 2 tablas o dataframes puede ser necesario pero tedioso , te dejo el [código](Merge.ipynb) para que lo hagas en un abrir y cerrar de ojos. 
 
+<div> 
 
+## ✨ Filtros y más
 
+<div> 
 
 <div> 
 
