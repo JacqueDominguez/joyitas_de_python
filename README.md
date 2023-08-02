@@ -9,9 +9,15 @@
   
 ## ✨Merge , Join o como lo llames.
 
+<p align="center">
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2020/04/Python-Pandas-Join.jpg.webp" alt="MDN"width="1000" height="500">
+
 <div> 
   
 Combinar 2 tablas o dataframes puede ser necesario pero tedioso , te dejo el código para que lo hagas en un abrir y cerrar de ojos. 
+
+
+
 
 <div> 
 
