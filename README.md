@@ -18,6 +18,11 @@ Combinar 2 tablas o dataframes puede ser necesario pero tedioso , te dejo el [c�
 
 <div> 
 
+## ✨ Cuando los duplicados te arruinan el dia 
+¿Qué hacemos si hay datos duplicados?, ¿los eliminamos o investigamos por qué se generan?.
+Te dejo el [código](Duplicados.ipynb) para visualizar los duplicados en el dataframe. 
+<div> 
+
 ## ✨ Filtros y más
 
 <div> 
